@@ -10,7 +10,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-<div style="text-align: center">
+<div style="text-align:center">
   <img src="https://github-readme-stats.vercel.app/api?username=nathanelma&count_private=true&show_icons=true&theme=prussian" width="400">
 <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanelma&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
